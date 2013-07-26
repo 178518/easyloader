@@ -1,8 +1,0 @@
-[
-    {
-        "moduleName": "aautocomplete",
-        "moduleJs": "getcurpos.js",
-        "modeulCnName": "自动补全2",
-        "moduleDependencies": "autocomplete"
-    }
-]
