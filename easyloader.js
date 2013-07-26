@@ -7,6 +7,7 @@
  * Copyright 2010 stworthy [ stworthy@gmail.com ]
  *
  * Edit by yzhao [178518@gmail.com]
+ * QQ:497014281
  *
  */
 (function ($) {
